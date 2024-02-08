@@ -31,3 +31,4 @@ C:\Users\juanm\Desktop\API´s .NET\webapi\obj\Debug\net8.0\refint\webapi.dll
 C:\Users\juanm\Desktop\API´s .NET\webapi\obj\Debug\net8.0\webapi.pdb
 C:\Users\juanm\Desktop\API´s .NET\webapi\obj\Debug\net8.0\webapi.genruntimeconfig.cache
 C:\Users\juanm\Desktop\API´s .NET\webapi\obj\Debug\net8.0\ref\webapi.dll
+C:\Users\juanm\Desktop\API´s .NET\webapi\obj\Debug\net8.0\webapi.sourcelink.json
