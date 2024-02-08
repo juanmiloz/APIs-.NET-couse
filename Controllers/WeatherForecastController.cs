@@ -4,7 +4,7 @@ using webapi.Model;
 namespace webapi.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class WeatherForecastController : ControllerBase
 {
     private static readonly string[] Summaries = new[]
@@ -33,6 +33,9 @@ public class WeatherForecastController : ControllerBase
     }
 
     [HttpGet(Name = "GetWeatherForecast")]
+    [Route("get/weatherforecast")]
+    [Route("get/weatherforecast2")]
+    [Route("[action]")]
     public IEnumerable<WeatherForecast> Get()
     {
         return ListWeatherForecast;
