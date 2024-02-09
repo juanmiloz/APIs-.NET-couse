@@ -1,4 +1,4 @@
-﻿namespace webapi.Services;
+﻿namespace webapi.Services.ServiceImpl;
 
 public class HelloWorldService : IHelloWorldService
 {
